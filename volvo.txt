@@ -1,2 +1,3 @@
 volvo
 xd40
+xd60
